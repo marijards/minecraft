@@ -8,12 +8,17 @@ Minecraft ist ein Spiel, in dem es um das Abbauen und Sammeln von Rohstoffen sow
 - Tastenkombinationen für die Actionen bleiben immer gleich.
 - User kann sich das Spiel einfach herunterladen.
 - Es wird nicht viel Speicherplatz benötigt.
-  
+- Updates finden nicht während dem Spiel statt.
+- User wird informiert über Updates.
+-   
 ### Qualitätsanforderungen
-- Das Spiel reagiert schnell nach der Eingabe.
+- Das Spiel reagiert schnell.
+- Daten gehen nie verloren.
 - Updates bringen Verbesserungen.
-- User hat spass beim spielen.
+- User hat Spass beim spielen.
 ### Randbedingungen
+- Performance vom Computer des Users.
+- 
 ## Verteilungssicht
 ![Copy of Verteilungsdiagramm drawio](https://user-images.githubusercontent.com/97627842/156453923-ad7ce6ac-abe2-4673-9dd3-fbf04ac2c130.png)
 #### Erklärung:

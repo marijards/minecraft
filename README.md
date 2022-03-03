@@ -10,6 +10,6 @@ Minecraft ist ein Spiel, in dem es um das Abbauen und Sammeln von Rohstoffen sow
 ## Verteilungssicht
 ![Copy of Verteilungsdiagramm drawio](https://user-images.githubusercontent.com/97627842/156453923-ad7ce6ac-abe2-4673-9dd3-fbf04ac2c130.png)
 #### Erklärung:
-Auf dem Server ist das Spiel gespeichert. Von dort aus finden auch die Updates statt. Der User kann sich das Spiel auf dem Internet herunterladen auf seinen persönlicher Computer. Der User benötigt zum spielen nur die Tastatur. Auf dieser werden Tastenkombination ausgeübt welche bestimmte Actionen im Spiel erzeugen.
+Auf dem Server ist das Spiel gespeichert. Von dort aus finden auch die Updates statt. Der User kann sich das Spiel auf dem Internet herunterladen auf seinen persönlichen Computer. Der User benötigt zum spielen nur die Tastatur. Auf dieser werden Tastenkombination ausgeübt welche bestimmte Actionen im Spiel erzeugen.
 ## Glossar
 https://minecraft.fandom.com/de/wiki/Anleitungen/Die_Grundlagen

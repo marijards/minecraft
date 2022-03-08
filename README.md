@@ -12,6 +12,7 @@ Minecraft ist ein Spiel, in dem es um das Abbauen und Sammeln von Rohstoffen sow
 - Hersteller benötigt Fehler- und/oder Problemmeldungen und Feedback um das Spiel zu verbessern.
 ## Anforderungen
 ### Use Case Diagramm
+![Kontextdiagramm-Page-2](https://user-images.githubusercontent.com/97627842/157310728-c1f05385-a9a6-404b-9cde-ee878d027424.jpg)
 ### Funktionale Anforderungen
 - Tastenkombinationen für die Actionen bleiben immer gleich.
 - User kann sich das Spiel einfach herunterladen.

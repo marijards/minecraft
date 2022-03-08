@@ -18,10 +18,11 @@ Minecraft ist ein Spiel, in dem es um das Abbauen und Sammeln von Rohstoffen sow
 - User kann sich das Spiel einfach herunterladen.
 - Es wird nicht viel Speicherplatz benötigt.
 - Updates finden nicht während dem Spiel statt.
-- User wird informiert über Updates.
+- Updates werden automatisch generiert.
 ### Qualitätsanforderungen
 - Das Spiel reagiert schnell.
 - Daten gehen nie verloren.
+- Auf dem Internet ist immer die neuste Version zum herunterladen.
 - Updates bringen Verbesserungen.
 - User hat Spass beim spielen.
 ### Randbedingungen

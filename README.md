@@ -4,7 +4,7 @@ Minecraft ist ein Spiel, in dem es um das Abbauen und Sammeln von Rohstoffen sow
 ## Kontextabgrenung
 ![Kontextdiagramm](https://user-images.githubusercontent.com/97627842/157303934-ec2ee14d-7baf-49da-b78f-0ce7f7d03e71.jpg)
 - Das Spiel kann auf dem Internet heruntergeladen werden und auf dem persönlichen Gerät gespielt werden.
-- Das Internet wünscht immer die neuste Version.
+- Das Internet benötigt immer die neuste Version.
 - Minecraft hat die Erwartungen an den Server, dass alle Daten sicher gespeichert werden.
 - Der User möchte beim Spiele spass haben und nicht von Unterbrüchen gestört werden.
 - Das Spiel soll sich automatisch updaten und nicht während der User am spielen ist.
@@ -18,7 +18,6 @@ Minecraft ist ein Spiel, in dem es um das Abbauen und Sammeln von Rohstoffen sow
 - Es wird nicht viel Speicherplatz benötigt.
 - Updates finden nicht während dem Spiel statt.
 - User wird informiert über Updates.
--   
 ### Qualitätsanforderungen
 - Das Spiel reagiert schnell.
 - Daten gehen nie verloren.
@@ -26,7 +25,6 @@ Minecraft ist ein Spiel, in dem es um das Abbauen und Sammeln von Rohstoffen sow
 - User hat Spass beim spielen.
 ### Randbedingungen
 - Performance vom Computer des Users.
-- 
 ## Verteilungssicht
 ![Copy of Verteilungsdiagramm drawio](https://user-images.githubusercontent.com/97627842/156453923-ad7ce6ac-abe2-4673-9dd3-fbf04ac2c130.png)
 #### Erklärung:

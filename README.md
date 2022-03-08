@@ -23,6 +23,7 @@ Minecraft ist ein Spiel, in dem es um das Abbauen und Sammeln von Rohstoffen sow
 - Das Spiel reagiert schnell.
 - Daten gehen nie verloren.
 - Auf dem Internet ist immer die neuste Version zum herunterladen.
+- Der User findet auf dem Internet immer die neuste Version.
 - Updates bringen Verbesserungen.
 - User hat Spass beim spielen.
 ### Randbedingungen
